@@ -1,54 +1,107 @@
 # Hi there! 👋 I'm Jose
 
-**AI Cloud / Platform Engineer · DevOps · LLM Infrastructure**
+<div align="center">
+  <img 
+    src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00D4FF&center=true&vCenter=true&width=600&lines=AI+Cloud+%2F+Platform+Engineer+from+Texas+🤠;Cloud+%26+DevOps+Specialist;LLM+Infrastructure+%26+Automation;Secure+Scalable+Cloud+Systems" 
+    alt="Typing SVG" 
+  />
+</div>
 
-[![Profile views](https://komarev.com/ghpvc/?username=joselrnz&label=Profile%20views&color=0e75b6&style=flat)](https://github.com/joselrnz)
-[![GitHub Followers](https://img.shields.io/github/followers/joselrnz?label=Followers&style=social)](https://github.com/joselrnz)
-
----
-
-## 🚀 What I Work On
-
-- Designing **AI-native cloud platforms** for LLM and agent workloads  
-- Building **infrastructure as code** for AWS / Azure using Terraform and pipelines  
-- Implementing **DevOps workflows**: CI/CD, observability, security, and automation  
-- Experimenting with **LLM tooling** (MCP, context engines, gateways, job/queue workers)  
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=joselrnz&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
+  <img src="https://img.shields.io/github/followers/joselrnz?label=Followers&style=social" alt="GitHub Followers" />
+</p>
 
 ---
 
-## 🛠️ Tech Stack (Core)
+## 🚀 About Me
 
-**Cloud & Platform**
+<img align="right" alt="Cloud & DevOps" width="360" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
 
-- AWS · Azure · Kubernetes · Docker  
-- VPC / networking · IAM / RBAC · monitoring & logging  
-
-**DevOps & IaC**
-
-- Terraform · GitHub Actions / GitLab CI  
-- Linux · shell scripting · automation tooling  
-
-**AI / LLM & Backend**
-
-- Python · FastAPI  
-- LLM APIs (OpenAI, etc.) · LangChain / orchestration tools  
-- Redis · Kafka · Postgres / MySQL  
+- 🏠 **Based in:** Texas, USA 🤠  
+- 🔭 **Currently Building:** [Core Infrastructure Project](https://github.com/joselrnz/core-infrastructure)  
+- 💬 **Ask me about:** AI cloud platforms, LLM infrastructure, DevOps, Kubernetes, Terraform, CI/CD  
+- 🌱 **Learning:** Advanced Kubernetes patterns, multi-cloud networking, LLMOps, and AI security  
+- 🎯 **Goal:** Ship reliable, secure **AI-native cloud platforms** teams can build on  
+- ⚡ **Fun fact:** I like taking ugly manual workflows and turning them into clean automation
 
 ---
 
-## 🎯 Current Focus
+## 🛠️ Tech Arsenal
 
-- Building **AI platform patterns** (MCP servers, AI gateways, context engines)  
-- Hardening **security and observability** for LLM-heavy workloads  
-- Improving **developer experience** for cloud and AI automation  
+### 💻 Programming
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=python,go,java,cpp,c,bash" />
+</p>
+
+### ☁️ Cloud, Platform & DevOps
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=aws,azure,gcp,docker,kubernetes" />
+  <img src="https://skillicons.dev/icons?i=linux,nginx,git" />
+</p>
+
+### 🤖 AI, LLM & Automation
+
+<p align="left">
+  <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" />
+  <img src="https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white" />
+  <img src="https://img.shields.io/badge/LangChain-000000?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white" />
+  <img src="https://img.shields.io/badge/Apache_Kafka-231F20?style=for-the-badge&logo=apache-kafka&logoColor=white" />
+</p>
+
+### 🗄️ Databases & Messaging
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=postgresql,mysql,mongodb,redis" />
+</p>
+
+### 📈 Observability & Tooling
+
+<p align="left">
+  <img src="https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white" />
+  <img src="https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=prometheus&logoColor=white" />
+  <img src="https://img.shields.io/badge/CircleCI-343434?style=for-the-badge&logo=circleci&logoColor=white" />
+</p>
 
 ---
 
-## 🤝 Connect
+## 📊 GitHub Analytics
 
-- 💼 LinkedIn: [linkedin.com/in/joselrnz](https://linkedin.com/in/joselrnz)  
-- 📫 Email: `your.email@example.com`
+<div align="center">
+  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=joselrnz&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" />
+  <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=joselrnz&layout=compact&langs_count=8&theme=tokyonight" />
+</div>
 
 ---
 
-> 💡 *Proudly building AI-native cloud infrastructure from the Lone Star State.*
+## 🌟 Featured Project
+
+<div align="center">
+  <a href="https://github.com/joselrnz/core-infrastructure">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=joselrnz&repo=core-infrastructure&theme=tokyonight" />
+  </a>
+</div>
+
+---
+
+## 🤝 Let's Connect
+
+<div align="center">
+  <a href="https://linkedin.com/in/joselrnz" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+  <a href="mailto:your.email@example.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+  </a>
+</div>
+
+---
+
+<div align="center">
+  <h3>💡 "Building AI-native cloud infrastructure and automation, one commit at a time" 💡</h3>
+  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Animals/Cow%20Face.png" alt="Texas Spirit" width="25" height="25" />
+  <i>Proudly coding from the Lone Star State</i>
+</div>
