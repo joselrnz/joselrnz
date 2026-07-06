@@ -2,7 +2,7 @@
 
 <div align="center">
   <img 
-    src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00D4FF&center=true&vCenter=true&width=700&lines=AI+Cloud+%2F+Platform+Engineer+from+Texas+🤠;Rust+%2B+Python+Tooling+for+AI+Agents;LLM+Infrastructure+%26+Automation;Circuit+Automation+%26+Engineering+Tools" 
+    src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00D4FF&center=true&vCenter=true&width=760&lines=AI+Cloud+%2F+Platform+Engineer+from+Texas+🤠;Cloud+%2B+Embedded+Systems+Builder;Rust+%2B+Python+Tooling+for+AI+Agents;Circuit+Automation+%26+Hardware+Engineering" 
     alt="Typing SVG" 
   />
 </div>
@@ -20,9 +20,9 @@
 
 - 🏠 **Based in:** Texas, USA 🤠  
 - 🔭 **Currently Building:** [CodeGlance](https://github.com/joselrnz/CodeGlance), [AgentKitBoard](https://github.com/joselrnz/agent-kit-board), and circuit/schematic tooling  
-- 💬 **Ask me about:** AI cloud platforms, LLM infrastructure, Rust tooling, DevOps, Kubernetes, Terraform, CI/CD  
-- 🌱 **Learning:** Advanced Kubernetes patterns, multi-cloud networking, LLMOps, AI security, and circuit automation  
-- 🎯 **Goal:** Ship reliable, secure **AI-native tools and platforms** teams can build on  
+- 💬 **Ask me about:** AI cloud platforms, embedded systems, Rust tooling, DevOps, Kubernetes, Terraform, and circuit automation  
+- 🌱 **Learning:** Advanced Kubernetes patterns, embedded Linux, edge AI, hardware interfaces, AI security, and circuit automation  
+- 🎯 **Goal:** Ship reliable, secure **AI-native tools, cloud platforms, and hardware-adjacent systems** teams can build on  
 - ⚡ **Fun fact:** I like taking ugly manual workflows and turning them into clean automation
 
 ---
@@ -34,6 +34,7 @@
 | 🧠 AI agent tooling | Reference boards, context workflows, repo intelligence, token-aware agent utilities |
 | 🧰 Developer systems | Local-first CLIs, Rust/Python tooling, deterministic generated artifacts |
 | ⚡ Engineering automation | Circuit/schematic workflows, CircuitTikZ/LaTeX exports, visual editors |
+| 🔌 Embedded & hardware | Edge devices, embedded Linux, hardware interfaces, circuit analysis, lab-style automation |
 | ☁️ Platform work | Kubernetes, Terraform, secure automation, observability, and cloud operations |
 
 ---
@@ -72,6 +73,17 @@
   <img src="https://img.shields.io/badge/CircuitTikZ-008080?style=for-the-badge&logo=latex&logoColor=white" />
   <img src="https://img.shields.io/badge/LaTeX-008080?style=for-the-badge&logo=latex&logoColor=white" />
   <img src="https://img.shields.io/badge/Electrical_Engineering-FFB000?style=for-the-badge&logo=electron&logoColor=black" />
+</p>
+
+### 🔌 Embedded & Hardware
+
+<p align="left">
+  <img src="https://img.shields.io/badge/Embedded_Linux-111827?style=for-the-badge&logo=linux&logoColor=white" />
+  <img src="https://img.shields.io/badge/Raspberry_Pi-A22846?style=for-the-badge&logo=raspberrypi&logoColor=white" />
+  <img src="https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white" />
+  <img src="https://img.shields.io/badge/Edge_AI-0F766E?style=for-the-badge&logo=nvidia&logoColor=white" />
+  <img src="https://img.shields.io/badge/PCB_%26_Circuits-374151?style=for-the-badge&logo=kicad&logoColor=white" />
+  <img src="https://img.shields.io/badge/I2C_%2F_SPI_%2F_UART-7C3AED?style=for-the-badge&logo=serialport&logoColor=white" />
 </p>
 
 ### 📈 Observability & Tooling
