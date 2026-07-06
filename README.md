@@ -77,11 +77,14 @@
 
 ---
 
-## 🌟 Featured Project
+## 🌟 Featured Projects
 
 <div align="center">
-  <a href="https://github.com/joselrnz/core-infrastructure">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=joselrnz&repo=core-infrastructure&theme=tokyonight" />
+  <a href="https://github.com/joselrnz/agent-kit-board">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=joselrnz&repo=agent-kit-board&theme=tokyonight" />
+  </a>
+  <a href="https://github.com/joselrnz/CodeGlance">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=joselrnz&repo=CodeGlance&theme=tokyonight" />
   </a>
 </div>
 
