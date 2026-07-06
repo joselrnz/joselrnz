@@ -61,8 +61,6 @@
   <img src="https://img.shields.io/badge/Claude-D97757?style=for-the-badge&logo=anthropic&logoColor=white" />
   <img src="https://img.shields.io/badge/LangChain-000000?style=for-the-badge&logo=python&logoColor=white" />
   <img src="https://img.shields.io/badge/MCP-111827?style=for-the-badge&logo=json&logoColor=white" />
-  <img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white" />
-  <img src="https://img.shields.io/badge/Apache_Kafka-231F20?style=for-the-badge&logo=apache-kafka&logoColor=white" />
 </p>
 
 ### ⚙️ Engineering Systems
@@ -74,12 +72,6 @@
   <img src="https://img.shields.io/badge/CircuitTikZ-008080?style=for-the-badge&logo=latex&logoColor=white" />
   <img src="https://img.shields.io/badge/LaTeX-008080?style=for-the-badge&logo=latex&logoColor=white" />
   <img src="https://img.shields.io/badge/Electrical_Engineering-FFB000?style=for-the-badge&logo=electron&logoColor=black" />
-</p>
-
-### 🗄️ Databases & Messaging
-
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=postgresql,mysql,mongodb,redis" />
 </p>
 
 ### 📈 Observability & Tooling
