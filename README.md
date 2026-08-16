@@ -13,7 +13,7 @@
 </p>
 
 <p align="center">
-  <sub>Last updated: 2026-07-06 7:39 PM CT</sub>
+  <sub>Last updated: 2026-08-15 7:07 PM CT</sub>
 </p>
 
 ---
@@ -23,11 +23,37 @@
 <img align="right" alt="Cloud & DevOps" width="360" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
 
 - 🏠 **Based in:** Texas, USA 🤠  
-- 🔭 **Currently Building:** [CodeGlance](https://github.com/joselrnz/CodeGlance), [AgentKitBoard](https://github.com/joselrnz/agent-kit-board), and circuit/schematic tooling  
+- 🔭 **Currently Building:** [pykantui](https://github.com/joselrnz/pykantui), [CodeGlance](https://github.com/joselrnz/CodeGlance), [AgentKitBoard](https://github.com/joselrnz/agent-kit-board), and circuit/schematic tooling  
 - 💬 **Ask me about:** AI cloud platforms, embedded systems, Rust tooling, DevOps, Kubernetes, Terraform, and circuit automation  
 - 🌱 **Learning:** Advanced Kubernetes patterns, embedded Linux, edge AI, hardware interfaces, AI security, and circuit automation  
 - 🎯 **Goal:** Ship reliable, secure **AI-native tools, cloud platforms, and hardware-adjacent systems** teams can build on  
 - ⚡ **Fun fact:** I like taking ugly manual workflows and turning them into clean automation
+
+---
+
+## 📌 Featured: pykantui
+
+<p align="left">
+  <a href="https://github.com/joselrnz/pykantui" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-pykantui-181717?style=for-the-badge&logo=github&logoColor=white" alt="pykantui on GitHub" />
+  </a>
+  <a href="https://pypi.org/project/pykantui/" target="_blank">
+    <img src="https://img.shields.io/pypi/v/pykantui?style=for-the-badge&logo=pypi&logoColor=white&color=3775A9" alt="pykantui on PyPI" />
+  </a>
+  <img src="https://img.shields.io/badge/python-3.11%2B-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python 3.11+" />
+  <img src="https://img.shields.io/badge/built_with-Textual-7928CA?style=for-the-badge" alt="Built with Textual" />
+</p>
+
+**A local-first terminal kanban board** with one provider-neutral workflow for
+**Jira, Linear, Asana, ClickUp, Monday, Plane, Trello, GitHub, and Shortcut** —
+work items become git-tracked Markdown you can edit in the TUI or any editor,
+and `kbn sync` reconciles both ways with confirmation-gated writes. Nine
+live-verified providers, twenty interface languages.
+
+```bash
+pip install pykantui
+kbn init      # pick a tracker, paste a token, and your board is Markdown
+```
 
 ---
 
