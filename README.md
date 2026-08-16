@@ -2,7 +2,7 @@
 
 <div align="center">
   <img 
-    src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00D4FF&center=true&vCenter=true&width=760&lines=AI+%2B+Software+Engineer+from+Texas+🤠;Cloud+%2B+DevOps+Platform+Builder;Electrical+Engineering+%2B+Hardware;Rust+%2B+Python+Tooling+for+AI+Agents" 
+    src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00D4FF&center=true&vCenter=true&width=760&lines=AI+%2B+Software+Engineer;Cloud+%2B+DevOps+Platform+Builder;Electrical+Engineering+%2B+Hardware;Rust+%2B+Python+Tooling+for+AI+Agents" 
     alt="Typing SVG" 
   />
 </div>
@@ -20,9 +20,8 @@
 
 ## 🚀 About Me
 
-<img align="right" alt="Cloud & DevOps" width="360" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
+<img align="right" alt="Coding" width="360" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif">
 
-- 🏠 **Based in:** Texas, USA 🤠  
 - 🔭 **Currently Building:** [pykantui](https://github.com/joselrnz/pykantui), [CodeGlance](https://github.com/joselrnz/CodeGlance), [AgentKitBoard](https://github.com/joselrnz/agent-kit-board), and circuit/schematic tooling  
 - 💬 **Ask me about:** AI systems and agent tooling, software architecture, cloud & DevOps (Kubernetes, Terraform), electrical engineering, and hardware automation  
 - 🌱 **Learning:** Advanced Kubernetes patterns, embedded Linux, edge AI, hardware interfaces, AI security, and circuit automation  
@@ -140,7 +139,5 @@ kbn init      # pick a tracker, paste a token, and your board is Markdown
 ---
 
 <div align="center">
-  <h3>💡 "Building AI-native cloud infrastructure and automation, one commit at a time" 💡</h3>
-  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Animals/Cow%20Face.png" alt="Texas Spirit" width="25" height="25" />
-  <i>Proudly coding from the Lone Star State</i>
+  <h3>💡 "Building AI-native software, cloud platforms, and hardware automation — one commit at a time" 💡</h3>
 </div>
