@@ -2,7 +2,7 @@
 
 <div align="center">
   <img 
-    src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00D4FF&center=true&vCenter=true&width=760&lines=AI+Cloud+%2F+Platform+Engineer+from+Texas+🤠;Cloud+%2B+Embedded+Systems+Builder;Rust+%2B+Python+Tooling+for+AI+Agents;Circuit+Automation+%26+Hardware+Engineering" 
+    src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00D4FF&center=true&vCenter=true&width=760&lines=AI+%2B+Software+Engineer+from+Texas+🤠;Cloud+%2B+DevOps+Platform+Builder;Electrical+Engineering+%2B+Hardware;Rust+%2B+Python+Tooling+for+AI+Agents" 
     alt="Typing SVG" 
   />
 </div>
@@ -24,9 +24,9 @@
 
 - 🏠 **Based in:** Texas, USA 🤠  
 - 🔭 **Currently Building:** [pykantui](https://github.com/joselrnz/pykantui), [CodeGlance](https://github.com/joselrnz/CodeGlance), [AgentKitBoard](https://github.com/joselrnz/agent-kit-board), and circuit/schematic tooling  
-- 💬 **Ask me about:** AI cloud platforms, embedded systems, Rust tooling, DevOps, Kubernetes, Terraform, and circuit automation  
+- 💬 **Ask me about:** AI systems and agent tooling, software architecture, cloud & DevOps (Kubernetes, Terraform), electrical engineering, and hardware automation  
 - 🌱 **Learning:** Advanced Kubernetes patterns, embedded Linux, edge AI, hardware interfaces, AI security, and circuit automation  
-- 🎯 **Goal:** Ship reliable, secure **AI-native tools, cloud platforms, and hardware-adjacent systems** teams can build on  
+- 🎯 **Goal:** Ship reliable, secure **AI-native software, cloud platforms, and hardware-adjacent systems** teams can build on  
 - ⚡ **Fun fact:** I like taking ugly manual workflows and turning them into clean automation
 
 ---
