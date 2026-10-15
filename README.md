@@ -1,8 +1,10 @@
 # Hi, I'm Jose
 
-I build Python developer tools, data workflows, and cloud infrastructure. I am interested in engineering roles across fintech, hedge-fund technology, and hardware.
+I build Python developer tools and data workflows, and I am developing my Rust systems-programming skills. My career focus is software for hardware and financial systems.
 
-My background includes Linux, Kubernetes, Terraform, and CI/CD. My current tools help people understand codebases, manage work from the terminal, and automate repetitive tasks. I am developing my Rust skills through small projects and source-code study.
+My current projects help people understand codebases, manage work from the terminal, and automate repetitive tasks. My background includes Linux, Kubernetes, Terraform, and CI/CD.
+
+**Open to paid software engineering roles and project work.**
 
 [Website](https://joselrnz.com) · [Coulohm](https://github.com/Coulohm) · [LinkedIn](https://linkedin.com/in/joselrnz)
 
@@ -15,13 +17,14 @@ My background includes Linux, Kubernetes, Terraform, and CI/CD. My current tools
 | [pyherdr](https://github.com/joselrnz/pyherdr) | A terminal multiplexer for shells and AI coding agents, with persistent sessions and live status tracking. |
 | [agent-kit-board](https://github.com/joselrnz/agent-kit-board) | A reference board for AI agent tools, context management, MCP servers, skills, hooks, and workflow repositories. |
 
-## Engineering interests
+## Engineering focus
 
-- **Cloud computing and platforms:** Linux systems, Azure infrastructure, Kubernetes, Terraform, and deployment automation.
-- **Fintech and hedge-fund technology:** interested in building data pipelines, research infrastructure, and reliable software for financial teams.
+- **Python:** developer tools, command-line applications, data workflows, and automation.
+- **Rust:** developing my understanding of ownership, borrowing, and systems programming through hands-on study.
 - **Hardware and electronics:** exploring embedded Linux, hardware interfaces, and tools for circuit and schematic documentation.
-- **Developer tools:** command-line applications, terminal interfaces, repository exploration, and practical AI agent workflows.
-- **Rust:** learning ownership, borrowing, and systems programming through hands-on study.
+- **Fintech and hedge-fund technology:** interested in data pipelines, research infrastructure, and reliable software for financial teams.
+
+Cloud and platform engineering support this work: Linux systems, Azure infrastructure, Kubernetes, Terraform, and deployment automation.
 
 ## Cloud computing and data projects
 
@@ -35,6 +38,8 @@ My background includes Linux, Kubernetes, Terraform, and CI/CD. My current tools
 
 The source for this profile is in [joselrnz](https://github.com/joselrnz/joselrnz).
 
-## Connect
+## Work with me
 
-I am interested in software, cloud/platform, and hardware engineering opportunities, especially in fintech and hedge-fund technology. You can find me through [my website](https://joselrnz.com), [LinkedIn](https://linkedin.com/in/joselrnz), or [Coulohm](https://github.com/Coulohm).
+I am open to paid engineering roles and projects involving Python tools, data automation, and Linux systems. I am especially interested in opportunities where I can develop Rust skills and contribute to hardware tooling or financial technology.
+
+Contact me through [LinkedIn](https://linkedin.com/in/joselrnz) or [my website](https://joselrnz.com). You can also find my organization at [Coulohm](https://github.com/Coulohm).
