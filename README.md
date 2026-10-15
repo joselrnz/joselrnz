@@ -1,8 +1,8 @@
 # Hi, I'm Jose
 
-I build developer tools, AI agent workflows, and engineering utilities.
+My focus is fintech software and hardware tooling, with a background in Python, Linux, and platform engineering.
 
-My projects help people understand codebases, manage work from the terminal, and turn repetitive tasks into useful automation. Python is central to my current tools, and I am developing my Rust skills through small projects and source-code study.
+I build developer tools, data workflows, and engineering utilities. My current projects help people understand codebases, manage work from the terminal, and automate repetitive tasks. I am developing my Rust skills through small projects and source-code study.
 
 [Website](https://joselrnz.com) · [Coulohm](https://github.com/Coulohm) · [LinkedIn](https://linkedin.com/in/joselrnz)
 
@@ -15,12 +15,12 @@ My projects help people understand codebases, manage work from the terminal, and
 | [pyherdr](https://github.com/joselrnz/pyherdr) | A terminal multiplexer for shells and AI coding agents, with persistent sessions and live status tracking. |
 | [agent-kit-board](https://github.com/joselrnz/agent-kit-board) | A reference board for AI agent tools, context management, MCP servers, skills, hooks, and workflow repositories. |
 
-## What I work on
+## Engineering interests
 
-- **Developer experience:** command-line tools, terminal interfaces, repository exploration, and local-first workflows.
-- **AI agent tooling:** useful context, session management, workflow automation, and tools that make agent behaviour easier to inspect.
-- **Engineering workflows:** circuit and schematic documentation, LaTeX, and practical tools for technical work.
-- **Learning and exploration:** Rust ownership and borrowing, embedded Linux, electronics, and hardware interfaces.
+- **Fintech software:** applying my experience with data workflows, automation, and infrastructure to financial software and developer tooling.
+- **Hardware and electronics:** exploring embedded Linux, hardware interfaces, and tools for circuit and schematic documentation.
+- **Developer tools:** command-line applications, terminal interfaces, repository exploration, and practical AI agent workflows.
+- **Rust:** learning ownership, borrowing, and systems programming through hands-on study.
 
 My platform background includes Kubernetes, Terraform, CI/CD, and cloud infrastructure. It supports the tools I build and operate.
 
@@ -37,4 +37,4 @@ My platform background includes Kubernetes, Terraform, CI/CD, and cloud infrastr
 
 ## Connect
 
-I am interested in developer tools, practical AI workflows, and engineering software. You can find me through [my website](https://joselrnz.com), [LinkedIn](https://linkedin.com/in/joselrnz), or [Coulohm](https://github.com/Coulohm).
+I am interested in engineering opportunities in fintech and hardware, particularly where software meets data, devices, or engineering workflows. You can find me through [my website](https://joselrnz.com), [LinkedIn](https://linkedin.com/in/joselrnz), or [Coulohm](https://github.com/Coulohm).
