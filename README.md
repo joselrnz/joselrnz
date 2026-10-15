@@ -1,143 +1,40 @@
-# Hi there! 👋 I'm Jose
+# Hi, I'm Jose
 
-<div align="center">
-  <img 
-    src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00D4FF&center=true&vCenter=true&width=760&lines=AI+%2B+Software+Engineer;Cloud+%2B+DevOps+Platform+Builder;Electrical+Engineering+%2B+Hardware;Rust+%2B+Python+Tooling+for+AI+Agents" 
-    alt="Typing SVG" 
-  />
-</div>
+I build developer tools, AI agent workflows, and engineering utilities.
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=joselrnz&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
-  <img src="https://img.shields.io/github/followers/joselrnz?label=Followers&style=social" alt="GitHub Followers" />
-</p>
+My projects help people understand codebases, manage work from the terminal, and turn repetitive tasks into useful automation. Python is central to my current tools, and I am developing my Rust skills through small projects and source-code study.
 
-<p align="center">
-  <sub>Last updated: 2026-08-15 7:07 PM CT</sub>
-</p>
+[Website](https://joselrnz.com) · [Coulohm](https://github.com/Coulohm) · [LinkedIn](https://linkedin.com/in/joselrnz)
 
----
+## Projects
 
-## 🚀 About Me
-
-<img align="right" alt="Coding" width="360" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif">
-
-- 🔭 **Currently Building:** [pykantui](https://github.com/joselrnz/pykantui), [CodeGlance](https://github.com/joselrnz/CodeGlance), [AgentKitBoard](https://github.com/joselrnz/agent-kit-board), and circuit/schematic tooling  
-- 💬 **Ask me about:** AI systems and agent tooling, software architecture, cloud & DevOps (Kubernetes, Terraform), electrical engineering, and hardware automation  
-- 🌱 **Learning:** Advanced Kubernetes patterns, embedded Linux, edge AI, hardware interfaces, AI security, and circuit automation  
-- 🎯 **Goal:** Ship reliable, secure **AI-native software, cloud platforms, and hardware-adjacent systems** teams can build on  
-- ⚡ **Fun fact:** I like taking ugly manual workflows and turning them into clean automation
-
----
-
-## 📌 Featured: pykantui
-
-<p align="left">
-  <a href="https://github.com/joselrnz/pykantui" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-pykantui-181717?style=for-the-badge&logo=github&logoColor=white" alt="pykantui on GitHub" />
-  </a>
-  <a href="https://pypi.org/project/pykantui/" target="_blank">
-    <img src="https://img.shields.io/pypi/v/pykantui?style=for-the-badge&logo=pypi&logoColor=white&color=3775A9" alt="pykantui on PyPI" />
-  </a>
-  <img src="https://img.shields.io/badge/python-3.11%2B-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python 3.11+" />
-  <img src="https://img.shields.io/badge/built_with-Textual-7928CA?style=for-the-badge" alt="Built with Textual" />
-</p>
-
-**A local-first terminal kanban board** with one provider-neutral workflow for
-**Jira, Linear, Asana, ClickUp, Monday, Plane, Trello, GitHub, and Shortcut** —
-work items become git-tracked Markdown you can edit in the TUI or any editor,
-and `kbn sync` reconciles both ways with confirmation-gated writes. Nine
-live-verified providers, twenty interface languages.
-
-```bash
-pip install pykantui
-kbn init      # pick a tracker, paste a token, and your board is Markdown
-```
-
----
-
-## 🧭 Current Focus
-
-| Area | What I'm building |
+| Project | What it does |
 | --- | --- |
-| 🧠 AI agent tooling | Reference boards, context workflows, repo intelligence, token-aware agent utilities |
-| 🧰 Developer systems | Local-first CLIs, Rust/Python tooling, deterministic generated artifacts |
-| ⚡ Engineering automation | Circuit/schematic workflows, CircuitTikZ/LaTeX exports, visual editors |
-| 🔌 Embedded & hardware | Edge devices, embedded Linux, hardware interfaces, circuit analysis, lab-style automation |
-| ☁️ Platform work | Kubernetes, Terraform, secure automation, observability, and cloud operations |
+| [pykantui](https://github.com/joselrnz/pykantui) | A local-first terminal kanban board that connects issue trackers with editable Markdown. |
+| [CodeGlance](https://github.com/joselrnz/CodeGlance) | Maps repositories into visual architecture views, readable documentation, and compact context for coding agents. |
+| [pyherdr](https://github.com/joselrnz/pyherdr) | A terminal multiplexer for shells and AI coding agents, with persistent sessions and live status tracking. |
+| [agent-kit-board](https://github.com/joselrnz/agent-kit-board) | A reference board for AI agent tools, context management, MCP servers, skills, hooks, and workflow repositories. |
 
----
+## What I work on
 
-## 🛠️ Tech Arsenal
+- **Developer experience:** command-line tools, terminal interfaces, repository exploration, and local-first workflows.
+- **AI agent tooling:** useful context, session management, workflow automation, and tools that make agent behaviour easier to inspect.
+- **Engineering workflows:** circuit and schematic documentation, LaTeX, and practical tools for technical work.
+- **Learning and exploration:** Rust ownership and borrowing, embedded Linux, electronics, and hardware interfaces.
 
-### 💻 Programming
+My platform background includes Kubernetes, Terraform, CI/CD, and cloud infrastructure. It supports the tools I build and operate.
 
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=python,rust,go,ts,js,java,cpp,c,bash" />
-</p>
+## Other public repositories
 
-### ☁️ Cloud, Platform & DevOps
+| Repository | Area |
+| --- | --- |
+| [rss-feed-etl](https://github.com/joselrnz/rss-feed-etl) | RSS extraction, filtering, and data-processing workflows. |
+| [core-infrastructure](https://github.com/joselrnz/core-infrastructure) | Infrastructure configuration. |
+| [kubernetes-bootstrap](https://github.com/joselrnz/kubernetes-bootstrap) | Kubernetes setup and bootstrap work. |
+| [k8s-cluster-setup](https://github.com/joselrnz/k8s-cluster-setup) | Cluster setup scripts. |
+| [terraform-cloud-modules-iac](https://github.com/joselrnz/terraform-cloud-modules-iac) | Terraform infrastructure-as-code modules. |
+| [joselrnz](https://github.com/joselrnz/joselrnz) | The source for this profile. |
 
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=aws,azure,gcp,docker,kubernetes,terraform" />
-  <img src="https://skillicons.dev/icons?i=linux,nginx,git,githubactions" />
-</p>
+## Connect
 
-### 🤖 AI, LLM & Automation
-
-<p align="left">
-  <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" />
-  <img src="https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white" />
-  <img src="https://img.shields.io/badge/Claude-D97757?style=for-the-badge&logo=anthropic&logoColor=white" />
-  <img src="https://img.shields.io/badge/LangChain-000000?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/MCP-111827?style=for-the-badge&logo=json&logoColor=white" />
-</p>
-
-### ⚙️ Engineering Systems
-
-<p align="left">
-  <img src="https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white" />
-  <img src="https://img.shields.io/badge/Tauri-24C8DB?style=for-the-badge&logo=tauri&logoColor=white" />
-  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
-  <img src="https://img.shields.io/badge/CircuitTikZ-008080?style=for-the-badge&logo=latex&logoColor=white" />
-  <img src="https://img.shields.io/badge/LaTeX-008080?style=for-the-badge&logo=latex&logoColor=white" />
-  <img src="https://img.shields.io/badge/Electrical_Engineering-FFB000?style=for-the-badge&logo=electron&logoColor=black" />
-</p>
-
-### 🔌 Embedded & Hardware
-
-<p align="left">
-  <img src="https://img.shields.io/badge/Embedded_Linux-111827?style=for-the-badge&logo=linux&logoColor=white" />
-  <img src="https://img.shields.io/badge/Raspberry_Pi-A22846?style=for-the-badge&logo=raspberrypi&logoColor=white" />
-  <img src="https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white" />
-  <img src="https://img.shields.io/badge/Edge_AI-0F766E?style=for-the-badge&logo=nvidia&logoColor=white" />
-  <img src="https://img.shields.io/badge/PCB_%26_Circuits-374151?style=for-the-badge&logo=kicad&logoColor=white" />
-  <img src="https://img.shields.io/badge/I2C_%2F_SPI_%2F_UART-7C3AED?style=for-the-badge&logo=serialport&logoColor=white" />
-</p>
-
-### 📈 Observability & Tooling
-
-<p align="left">
-  <img src="https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white" />
-  <img src="https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=prometheus&logoColor=white" />
-  <img src="https://img.shields.io/badge/CircleCI-343434?style=for-the-badge&logo=circleci&logoColor=white" />
-</p>
-
----
-
-## 🤝 Let's Connect
-
-<div align="center">
-  <a href="https://linkedin.com/in/joselrnz" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-  </a>
-  <a href="https://github.com/joselrnz" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
-  </a>
-</div>
-
----
-
-<div align="center">
-  <h3>💡 "Building AI-native software, cloud platforms, and hardware automation — one commit at a time" 💡</h3>
-</div>
+I am interested in developer tools, practical AI workflows, and engineering software. You can find me through [my website](https://joselrnz.com), [LinkedIn](https://linkedin.com/in/joselrnz), or [Coulohm](https://github.com/Coulohm).
