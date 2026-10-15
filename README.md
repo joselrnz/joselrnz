@@ -1,8 +1,8 @@
 # Hi, I'm Jose
 
-I'm a Cloud Platform Engineer building Python developer tools and infrastructure automation.
+I'm a Cloud Platform Engineer working across infrastructure automation, developer tooling, and Linux systems.
 
-My projects cover terminal applications, repository analysis, cloud provisioning, and data workflows.
+My projects connect software and infrastructure: terminal applications, repository analysis, reusable cloud modules, and deployment workflows.
 
 [Website](https://joselrnz.com) · [LinkedIn](https://linkedin.com/in/joselrnz) · [Coulohm](https://github.com/Coulohm)
 
@@ -20,7 +20,7 @@ My projects cover terminal applications, repository analysis, cloud provisioning
 
 I'm focused on software engineering opportunities in asset management and hedge funds, particularly research infrastructure, data platforms, and investment systems.
 
-My development priorities are C++ and Linux systems programming, building on my Python and infrastructure experience. My broader interests include hardware, electronics, and Rust.
+My development priorities are C++ and Linux systems programming, building on my platform engineering experience. My broader interests include hardware, electronics, and Rust.
 
 ## More projects
 
