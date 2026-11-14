@@ -1,17 +1,28 @@
-# Hi, I'm Jose
+# Jose Lorenzo
 
-I'm a Cloud Platform Engineer moving into systems programming and embedded systems. I write Rust, C++, and Python on Linux, and I've spent my career building the infrastructure and developer tools other engineers run on.
+Cloud platform engineer. I build and run the infrastructure, CI/CD and developer tools that engineering teams ship on, across AWS, Azure and Google Cloud. I'm now taking that into systems software in Rust and C++.
 
-Computer systems are being redesigned around accelerators, chiplets, and optical interconnects, and the software has to be written closer to the hardware than it used to be. That layer, where code meets silicon, is where I want to work.
+**Open to** platform, infrastructure and systems engineering roles, including trading and research infrastructure. · [LinkedIn](https://linkedin.com/in/joselrnz) · [Coulohm](https://coulohm.com)
 
-[LinkedIn](https://linkedin.com/in/joselrnz) · [Coulohm](https://coulohm.com)
+## What I bring to a team
 
-## Focus
+- **Infrastructure as code:** Terraform modules and pipelines for AWS, Azure and Google Cloud, with plan review, policy checks and cost estimates before anything is deployed.
+- **Kubernetes and containers:** cluster setup and bootstrap; Docker builds for applications and CI runners.
+- **CI/CD and release:** pipelines that test, build and deploy on every merge; self-hosted Git, runners and package registries.
+- **Security and secrets:** a central secrets store instead of keys in files, least-privilege service accounts, TLS and access controls at the edge.
+- **Observability:** uptime checks, error tracking and alerting that tell you what broke before users do.
+- **Developer tooling:** Python command-line tools, MCP servers and plugins for Claude Code, Codex, Cursor and GitHub Copilot, backed by thousands of automated tests.
 
-- **Systems programming:** Rust and C++ on Linux, close to the operating system and the hardware.
+**Languages:** Python, TypeScript, Bash, HCL, Rust, C++
+
+**Platforms:** Linux, AWS, Azure, Google Cloud, Kubernetes, Docker, Terraform, PostgreSQL, GitHub Actions
+
+## Building toward
+
+- **Systems programming:** Rust and C++ on Linux, close to the operating system.
 - **Embedded systems:** firmware and the boards it runs on.
-- **Quantitative finance:** research infrastructure, data platforms, and low-latency systems at asset managers and hedge funds.
-- **Hardware:** PCB design, photonics, and semiconductors.
+- **Hardware:** PCB design, photonics and semiconductors.
+- **Quantitative finance:** research platforms, market data and low-latency systems.
 
 ## Coulohm
 
@@ -22,16 +33,16 @@ Computer systems are being redesigned around accelerators, chiplets, and optical
   </picture>
 </a>
 
-[Coulohm](https://coulohm.com) is where I build my own work in circuits, electronics, and computers.
+[Coulohm](https://coulohm.com) is my own work in circuits, electronics and computers.
 
 ## Selected work
 
 | Project | What it does |
 | --- | --- |
-| [infragram](https://github.com/joselrnz/infragram) | Infrastructure diagrams as code for AWS, Azure, Google Cloud, Kubernetes and on-premises: an editor that works offline in one HTML file, Terraform import and export, read-only discovery of live accounts, cost estimates and policy checks. Runs as a plugin for Claude Code, Codex, Cursor and GitHub Copilot, or as an MCP server. |
-| [infragram-azure](https://github.com/joselrnz/infragram-azure) | The Azure edition: Azure, Kubernetes and Databricks diagrams, read-only import across Azure subscriptions, prices, policy checks and Terraform. |
-| [CodeGlance](https://github.com/joselrnz/CodeGlance) | Turns a repository into a visual map, a readable wiki, and compact context files for coding agents, generated locally with no hosted service. |
-| [pykantui](https://github.com/joselrnz/pykantui) | A local-first terminal kanban board: work items from Jira, Linear, GitHub and seven other trackers become Markdown files you edit and sync back. |
+| [infragram](https://github.com/joselrnz/infragram) | Infrastructure diagrams as code for AWS, Azure, Google Cloud, Kubernetes and on-premises networks. Imports Terraform configuration, plans and state; reads live accounts read-only; prices a design; flags security problems; exports Terraform back out. 19 provider libraries, 3,600+ vendor icons and over 6,000 automated tests. Runs offline as a single HTML file, as an MCP server, or as a plugin for Claude Code, Codex, Cursor and GitHub Copilot. |
+| [infragram-azure](https://github.com/joselrnz/infragram-azure) | The Azure edition: Azure, Kubernetes and Databricks, inventory across many subscriptions at once, Azure pricing, policy checks and Terraform. |
+| [CodeGlance](https://github.com/joselrnz/CodeGlance) | Turns a repository into a visual map, a readable wiki and compact context files for coding agents. Runs locally, with no hosted service. |
+| [pykantui](https://github.com/joselrnz/pykantui) | A local-first terminal kanban board. Work items from Jira, Linear, GitHub and seven other trackers become Markdown files you edit and sync back. |
 
 <a href="https://github.com/joselrnz/infragram">
   <img src="https://raw.githubusercontent.com/joselrnz/infragram/main/docs/images/infragram-tour-aws.gif" alt="Infragram: a three-tier web app on AWS, each stage's traffic animated from the users through the load balancer to the private subnets" width="720">
@@ -53,7 +64,7 @@ Computer systems are being redesigned around accelerators, chiplets, and optical
   <img src="assets/infragram-cost.png" alt="The same landing zone in the Infragram editor with the cost view on: the most expensive components are shaded red and each shows its monthly price; beside the map, the inventory lists every resource by monthly cost, from Azure Firewall Premium at $914.10 down to private DNS zones at $0.90, totalling $3,157.70" width="720">
 </a>
 
-*The same diagram priced from Azure's public list prices: about $3,158 a month. The costliest parts are shaded on the map, and the inventory lists every resource by monthly cost.*
+*The same design priced from Azure's public list prices: about $3,158 a month, with the firewall alone at $914. The costliest parts are shaded on the map, so you can see where to cut before anything is built.*
 
 ### Four clouds, active-active
 
@@ -63,14 +74,14 @@ Computer systems are being redesigned around accelerators, chiplets, and optical
 
 *Cloudflare steers traffic between a primary region on AWS and a secondary on Azure, with the database replicated between them, and Google Cloud runs the analytics for both.*
 
-## More projects
+## Infrastructure repositories
 
-- [pyherdr](https://github.com/joselrnz/pyherdr): A Python port of herdr, a terminal multiplexer for AI coding agents.
-- [core-infrastructure](https://github.com/joselrnz/core-infrastructure): Terraform infrastructure configuration and deployment workflows.
-- [terraform-cloud-modules-iac](https://github.com/joselrnz/terraform-cloud-modules-iac): Reusable Terraform modules, including Azure networking and storage.
-- [rss-feed-etl](https://github.com/joselrnz/rss-feed-etl): RSS extraction, filtering, and data-processing workflows.
-- [kubernetes-bootstrap](https://github.com/joselrnz/kubernetes-bootstrap): Kubernetes setup and bootstrap work.
-- [k8s-cluster-setup](https://github.com/joselrnz/k8s-cluster-setup): Cluster setup scripts.
-- [agent-kit-board](https://github.com/joselrnz/agent-kit-board): A reference board for AI agent tools and workflows.
+- [core-infrastructure](https://github.com/joselrnz/core-infrastructure): Terraform configuration and deployment workflows.
+- [terraform-cloud-modules-iac](https://github.com/joselrnz/terraform-cloud-modules-iac): reusable Terraform modules, including Azure networking and storage.
+- [kubernetes-bootstrap](https://github.com/joselrnz/kubernetes-bootstrap): Kubernetes cluster bootstrap.
+- [k8s-cluster-setup](https://github.com/joselrnz/k8s-cluster-setup): cluster setup scripts.
+- [rss-feed-etl](https://github.com/joselrnz/rss-feed-etl): a data pipeline that extracts, filters and processes RSS feeds.
+- [pyherdr](https://github.com/joselrnz/pyherdr): a Python port of herdr, a terminal multiplexer for AI coding agents.
+- [agent-kit-board](https://github.com/joselrnz/agent-kit-board): a reference board for AI agent tools and workflows.
 
-Find me on [LinkedIn](https://linkedin.com/in/joselrnz). This profile's source is in [joselrnz](https://github.com/joselrnz/joselrnz).
+Find me on [LinkedIn](https://linkedin.com/in/joselrnz).
