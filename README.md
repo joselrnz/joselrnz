@@ -15,7 +15,6 @@ My projects connect software and infrastructure: terminal applications, reposito
 | [CodeGlance](https://github.com/joselrnz/CodeGlance) | Turns repositories into visual maps, readable documentation, and compact context for coding agents. |
 | [pykantui](https://github.com/joselrnz/pykantui) | A terminal kanban board with editable Markdown and issue-tracker integration. |
 | [pyherdr](https://github.com/joselrnz/pyherdr) | A Python fork of Herdr for terminal workspaces and AI coding sessions. |
-| [terraform-cloud-modules-iac](https://github.com/joselrnz/terraform-cloud-modules-iac) | Reusable Terraform modules, including Azure networking and storage. |
 
 ## Engineering direction
 
@@ -26,6 +25,7 @@ My development priorities are C++ and Linux systems programming, building on my 
 ## More projects
 
 - [core-infrastructure](https://github.com/joselrnz/core-infrastructure): Terraform infrastructure configuration and deployment workflows.
+- [terraform-cloud-modules-iac](https://github.com/joselrnz/terraform-cloud-modules-iac): Reusable Terraform modules, including Azure networking and storage.
 - [rss-feed-etl](https://github.com/joselrnz/rss-feed-etl): RSS extraction, filtering, and data-processing workflows.
 - [kubernetes-bootstrap](https://github.com/joselrnz/kubernetes-bootstrap): Kubernetes setup and bootstrap work.
 - [k8s-cluster-setup](https://github.com/joselrnz/k8s-cluster-setup): Cluster setup scripts.
