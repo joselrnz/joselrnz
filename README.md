@@ -2,19 +2,18 @@
 
 I'm a Cloud Platform Engineer working across infrastructure automation, developer tooling, and Linux systems.
 
-My projects connect software and infrastructure: terminal applications, repository analysis, reusable cloud modules, and deployment workflows.
+My projects connect software and infrastructure: architecture diagrams drawn as code, repository analysis, terminal applications, and reusable cloud modules.
 
-[Website](https://joselrnz.com) · [LinkedIn](https://linkedin.com/in/joselrnz) · [Coulohm](https://github.com/Coulohm)
+[LinkedIn](https://linkedin.com/in/joselrnz) · [Coulohm](https://github.com/Coulohm)
 
 ## Selected work
 
 | Project | What it does |
 | --- | --- |
-| [infragram](https://github.com/joselrnz/infragram) | A local-first editor and exporter for infrastructure diagrams across 19 component libraries, with Terraform and live-cloud import. |
-| [infragram-azure](https://github.com/joselrnz/infragram-azure) | Azure, Kubernetes and Databricks diagrams: an offline editor, Terraform import and export, and read-only discovery of live accounts. |
-| [CodeGlance](https://github.com/joselrnz/CodeGlance) | Turns repositories into visual maps, readable documentation, and compact context for coding agents. |
-| [pykantui](https://github.com/joselrnz/pykantui) | A terminal kanban board with editable Markdown and issue-tracker integration. |
-| [pyherdr](https://github.com/joselrnz/pyherdr) | A Python fork of Herdr for terminal workspaces and AI coding sessions. |
+| [infragram](https://github.com/joselrnz/infragram) | Infrastructure diagrams as code for AWS, Azure, Google Cloud, Kubernetes and on-premises: an editor that works offline in one HTML file, Terraform import and export, read-only discovery of live accounts, cost estimates and policy checks. Runs as a plugin for Claude Code, Codex, Cursor and GitHub Copilot, or as an MCP server. |
+| [infragram-azure](https://github.com/joselrnz/infragram-azure) | The Azure edition: Azure, Kubernetes and Databricks diagrams, read-only import across Azure subscriptions, prices, policy checks and Terraform. |
+| [CodeGlance](https://github.com/joselrnz/CodeGlance) | Turns a repository into a visual map, a readable wiki, and compact context files for coding agents, generated locally with no hosted service. |
+| [pykantui](https://github.com/joselrnz/pykantui) | A local-first terminal kanban board: work items from Jira, Linear, GitHub and seven other trackers become Markdown files you edit and sync back. |
 
 ## Engineering direction
 
@@ -24,6 +23,7 @@ My development priorities are C++ and Linux systems programming, building on my 
 
 ## More projects
 
+- [pyherdr](https://github.com/joselrnz/pyherdr): A Python port of herdr, a terminal multiplexer for AI coding agents.
 - [core-infrastructure](https://github.com/joselrnz/core-infrastructure): Terraform infrastructure configuration and deployment workflows.
 - [terraform-cloud-modules-iac](https://github.com/joselrnz/terraform-cloud-modules-iac): Reusable Terraform modules, including Azure networking and storage.
 - [rss-feed-etl](https://github.com/joselrnz/rss-feed-etl): RSS extraction, filtering, and data-processing workflows.
@@ -31,4 +31,4 @@ My development priorities are C++ and Linux systems programming, building on my 
 - [k8s-cluster-setup](https://github.com/joselrnz/k8s-cluster-setup): Cluster setup scripts.
 - [agent-kit-board](https://github.com/joselrnz/agent-kit-board): A reference board for AI agent tools and workflows.
 
-Find me through [LinkedIn](https://linkedin.com/in/joselrnz) or [my website](https://joselrnz.com). This profile's source is in [joselrnz](https://github.com/joselrnz/joselrnz).
+Find me on [LinkedIn](https://linkedin.com/in/joselrnz). This profile's source is in [joselrnz](https://github.com/joselrnz/joselrnz).
