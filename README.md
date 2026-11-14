@@ -19,7 +19,7 @@ My projects connect software and infrastructure: architecture diagrams drawn as 
 
 I'm focused on software engineering opportunities in asset management and hedge funds, particularly research infrastructure, data platforms, and investment systems.
 
-My development priorities are C++ and Linux systems programming, building on my platform engineering experience. My broader interests include hardware, electronics, and Rust.
+My development priorities are Rust, C++, and Linux systems programming, building on my platform engineering experience. My broader interests include hardware and electronics.
 
 ## More projects
 
