@@ -1,10 +1,28 @@
 # Hi, I'm Jose
 
-I'm a Cloud Platform Engineer working across infrastructure automation, developer tooling, and Linux systems.
+I'm a Cloud Platform Engineer moving into systems programming and embedded systems. I write Rust, C++, and Python on Linux, and I've spent my career building the infrastructure and developer tools other engineers run on.
 
-My projects connect software and infrastructure: architecture diagrams drawn as code, repository analysis, terminal applications, and reusable cloud modules.
+Computer systems are being redesigned around accelerators, chiplets, and optical interconnects, and the software has to be written closer to the hardware than it used to be. That layer, where code meets silicon, is where I want to work.
 
-[LinkedIn](https://linkedin.com/in/joselrnz) · [Coulohm](https://github.com/Coulohm)
+[LinkedIn](https://linkedin.com/in/joselrnz) · [Coulohm](https://coulohm.com)
+
+## Focus
+
+- **Systems programming:** Rust and C++ on Linux, close to the operating system and the hardware.
+- **Embedded systems:** firmware and the boards it runs on.
+- **Quantitative finance:** research infrastructure, data platforms, and low-latency systems at asset managers and hedge funds.
+- **Hardware:** PCB design, photonics, and semiconductors.
+
+## Coulohm
+
+<a href="https://coulohm.com">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="assets/coulohm-dark.svg">
+    <img src="assets/coulohm-light.svg" alt="Coulohm" width="280">
+  </picture>
+</a>
+
+[Coulohm](https://coulohm.com) is where I build my own work in circuits, electronics, and computers.
 
 ## Selected work
 
@@ -15,11 +33,11 @@ My projects connect software and infrastructure: architecture diagrams drawn as 
 | [CodeGlance](https://github.com/joselrnz/CodeGlance) | Turns a repository into a visual map, a readable wiki, and compact context files for coding agents, generated locally with no hosted service. |
 | [pykantui](https://github.com/joselrnz/pykantui) | A local-first terminal kanban board: work items from Jira, Linear, GitHub and seven other trackers become Markdown files you edit and sync back. |
 
-## Engineering direction
+<a href="https://github.com/joselrnz/infragram">
+  <img src="https://raw.githubusercontent.com/joselrnz/infragram/main/docs/images/infragram-tour-aws.gif" alt="Infragram: a three-tier web app on AWS, each stage's traffic animated from the users through the load balancer to the private subnets" width="720">
+</a>
 
-I'm focused on software engineering opportunities in asset management and hedge funds, particularly research infrastructure, data platforms, and investment systems.
-
-My development priorities are Rust, C++, and Linux systems programming, building on my platform engineering experience. My broader interests include hardware and electronics.
+*Infragram drawing a three-tier web app on AWS.*
 
 ## More projects
 
