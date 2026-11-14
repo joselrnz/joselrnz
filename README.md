@@ -4,15 +4,6 @@ Cloud platform engineer. I build and run the infrastructure, CI/CD and developer
 
 **Open to** platform, infrastructure and systems engineering roles, including trading and research infrastructure. · [LinkedIn](https://linkedin.com/in/joselrnz) · [Coulohm](https://coulohm.com)
 
-## What I bring to a team
-
-- **Infrastructure as code:** Terraform modules and pipelines for AWS, Azure and Google Cloud, with plan review, policy checks and cost estimates before anything is deployed.
-- **Kubernetes and containers:** cluster setup and bootstrap; Docker builds for applications and CI runners.
-- **CI/CD and release:** pipelines that test, build and deploy on every merge; self-hosted Git, runners and package registries.
-- **Security and secrets:** a central secrets store instead of keys in files, least-privilege service accounts, TLS and access controls at the edge.
-- **Observability:** uptime checks, error tracking and alerting that tell you what broke before users do.
-- **Developer tooling:** Python command-line tools, MCP servers and plugins for Claude Code, Codex, Cursor and GitHub Copilot, backed by thousands of automated tests.
-
 **Languages:** Python, TypeScript, Bash, HCL, Rust, C++
 
 **Platforms:** Linux, AWS, Azure, Google Cloud, Kubernetes, Docker, Terraform, PostgreSQL, GitHub Actions
